@@ -175,7 +175,7 @@ function insertFile($service, $title, $description, $mimeType, $filename, $folde
 }
 
 
-$permission_data = insertPermission($service, $driveInfo["id"], 'amila128@gmail.com', 'anyone', 'reader');
+$permission_data = insertPermission($service, $driveInfo["id"], 'you@youremail.com', 'anyone', 'reader');
 echo "<br>Link to file: " . $driveInfo["alternateLink"];
 header('location:'.$driveInfo["alternateLink"]);
 ?>
