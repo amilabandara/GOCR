@@ -6,4 +6,4 @@ OCR feature to convert image text in to editable document and support more than 
 This project based on work of <a href="https://github.com/numsu">Numsu (Miro Metsänheimo)</a>'s <a href="https://github.com/numsu/google-drive-sdk-api-php-insert-file-parent-example">
 google-drive-sdk-api-php-insert-file-parent-example</a> Project, which allows users to upload files to the Google drive.
 
-You can Documentation from <a target="blank" href="http://amila.info/gocr-easily-convert-images-in-to-editable-word-documents/">here.</a>
+You can find Documentation from <a target="blank" href="http://amila.info/gocr-easily-convert-images-in-to-editable-word-documents/">here.</a>
